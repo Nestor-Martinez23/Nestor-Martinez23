@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nestor Martinez
 - 👀 I’m interested in technology, programming and video games
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
